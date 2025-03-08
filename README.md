@@ -4,6 +4,7 @@
 
 Janielle Jackson <br>
 INST414-0102 <br>
+Professor Buntain <br>
 Module 2 Assignment
 
 A network analysis on e-commerce transactions.
