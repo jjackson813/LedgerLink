@@ -5,3 +5,5 @@
 Janielle Jackson <br>
 INST414-0102 <br>
 Module 2 Assignment
+
+A network analysis on e-commerce transactions.
