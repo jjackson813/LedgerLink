@@ -1,4 +1,4 @@
-![Terrapin Squirtle](https://umdlibraries.tumblr.com/post/78669926763/squirtles-a-terp)
+![Terrapin Squirtle](/Users/janamari/senioryr/ecommerce_transactions/Terp UMD Image.jpg)
 # Janielle Jackson
 # INST414-0102
 # Module 2 Assignment
